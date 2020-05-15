@@ -2,3 +2,4 @@ boto3==1.13.11
 PyMySQL==0.9.3
 toolz==0.10.0
 psycopg2-binary==2.8.5
+PyYAML==5.3.1

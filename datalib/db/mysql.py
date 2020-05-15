@@ -39,6 +39,6 @@ class MySql(object):
                 self._conn.close()
 
     @contextmanager
-    def cursor(self):
+    def cursor(self, connection=None):
         with self.conn() as conn:
-            yield conn.cursor()
+            yield conn.cursor(connection)
