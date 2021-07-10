@@ -5,3 +5,6 @@ psycopg2-binary==2.8.5
 PyYAML==5.3.1
 mock==4.0.2
 python-Levenshtein==0.12.0
+git+https://github.com/perryism/dict_path.git
+git+https://github.com/perryism/dictdig.git
+glom==20.11.0
