@@ -1,10 +1,12 @@
 boto3==1.13.11
 PyMySQL==0.9.3
 toolz==0.10.0
-psycopg2-binary==2.8.5
-PyYAML==5.4
+psycopg2-binary==2.9.3
+PyYAML==5.4.1
 mock==4.0.2
 python-Levenshtein==0.12.0
 dictpath @ git+https://github.com/perryism/dict_path.git
 dictdig @ git+https://github.com/perryism/dictdig.git
 glom==20.11.0
+Faker==11.3.0
+scipy==1.7.3
