@@ -9,7 +9,7 @@ with open('requirements.txt') as file:
 
 setup(
     name='datalib',
-    version='0.3.0',
+    version='0.4.0',
     packages=find_packages(),
     install_requires=install_requires,
     url='',
