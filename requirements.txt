@@ -9,4 +9,4 @@ dictpath @ git+https://github.com/perryism/dict_path.git
 dictdig @ git+https://github.com/perryism/dictdig.git
 glom==20.11.0
 Faker==11.3.0
-scipy==1.7.3
+scipy==1.10.0
